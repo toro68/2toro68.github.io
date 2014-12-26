@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R - kurs Coursera
+title: R - programming, kurs Coursera
 tagline: Coursera
 ---
 
@@ -8,5 +8,5 @@ tagline: Coursera
   This is the second course in the Data Science Specialization and it focuses on the nuts and bolts of using R as a programming language.
 </p>
 
-Mooc-kurs på [Coursera](https://class.coursera.org/rprog-016).
+4 ukers Mooc-kurs på [Coursera](https://class.coursera.org/rprog-016).
 

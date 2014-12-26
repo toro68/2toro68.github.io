@@ -4,27 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Tor Inge Jøssang - journalist Stavanger Aftenblad
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Interesser: Langrenn, marathon, webutvikling, data science [@torjossang](https://twitter.com/torjossang).
 
-There are currently two themes built on Poole:
+BIO: Født 1968. Gift med Siri, far til 4.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+YRKE: Journalist og fotograf siden 1992. Ryfylke-korrespondent i Stavanger Aftenblad. Går turnus som frontsjef for Aftenbladet.no. Spesielt interessert i datastøttet journalistikk, sosiale medier, datavisualisering. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Har tidligere jobbet 6 år i lokalavis. 13 mnd ved KNM Harald Haarfagre. Kjørte buss i studietiden. Sommerjobber i Hetland Sparebank og helgejobber i butikk i tenårene.
 
-## Setup
+UTDANNING UiS: 2-årig journalistikk. Historie mellomfag. Engelsk grunnfag. Norsk grunnfag. Examen philosophicum.
 
-Some fun facts about the setup of this project include:
+FRITID: Hytte i Suldal. Fotballtrener Staal Jørpeland G2000. Webmaster for flere organisasjoner (Wordpress/Jekyll). Løper maraton og går lange skirenn. Golfer i blant, tidligere hcp 6.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!

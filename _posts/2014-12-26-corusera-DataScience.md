@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DThe Data Scientist’s Toolbox - kurs Coursera
+title: The Data Scientist’s Toolbox - kurs Coursera
 ---
 
 <p class="message">

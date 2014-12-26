@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Tor Inge Jøssang
 tagline:             'prosjekter'
-description:         'En blogg om web utvikling, kurs, huskelapper med portfolio og ulike innfall'
+description:         'En blogg om web utvikling, data science og ulike innfall'
 url:                 http://toro68.github.io
 baseurl:             /
 paginate:            5
